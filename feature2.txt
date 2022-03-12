@@ -1,0 +1,2 @@
+hi from feature2 branch
+this file is opened in feature2 branch and using vscode
